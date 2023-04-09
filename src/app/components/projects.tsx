@@ -3,50 +3,30 @@ import React from 'react'
 const Projects = () => {
     const projects = [
         {
-            name: 'Image Compressor',
-            link: 'https://bhaskarrijal.me/tools/image-compressor',
-            description: 'Web Application'
+            name: 'Matthew',
+            link: 'https://github.com/kaushalrijal/Smart-Calculator',
+            description: 'Github'
         },
         {
-            name: 'Byte Converter',
-            link: 'https://bhaskarrijal.me/tools/byte-converter',
-            description: 'Web Application'
+            name: 'KodePad',
+            link: 'https://github.com/kaushalrijal/KodePad',
+            description: 'Github'
         },
         {
-            name: 'Password Generator',
-            link: 'https://bhaskarrijal.me/tools/password-generator',
-            description: 'Web Application'
+            name: 'Khat',
+            link: 'https://github.com/kaushalrijal/Khat',
+            description: 'Github'
         },
         {
-            name: 'Weather',
-            link: 'https://bhaskarrijal.me/tools/weather',
-            description: 'Web Application'
+            name: 'FB Downloader',
+            link: 'https://github.com/kaushalrijal/FB-Video-Downloader',
+            description: 'Github'
         },
         {
-            name: 'Weight on Mars',
-            link: 'https://bhaskarrijal.me/tools/weight-on-mars',
-            description: 'Web Application'
+            name: 'Mag Faram Calculator',
+            link: 'https://github.com/kaushalrijal/Maag-Faram-Calculator',
+            description: 'Github'
         },
-        {
-            name: 'QR Code Generator',
-            link: 'https://bhaskarrijal.me/tools/qr-generator',
-            description: 'Web Application'
-        },
-        {
-            name: 'Basic Neural',
-            link: 'https://github.com/bhaskarrijal/neural',
-            description: 'Unpublished'
-        },
-        {
-            name: 'DFA Password Validator',
-            link: 'https://github.com/bhaskarrijal/dfa-password-validator',
-            description: 'Unpublished'
-        },
-        {
-            name: 'DFA Tokenizer',
-            link: 'https://github.com/bhaskarrijal/dfa-tokenizer',
-            description: 'Unpublished'
-        }
     ]
     return (
         <>

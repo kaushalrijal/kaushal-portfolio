@@ -3,23 +3,15 @@ import React from 'react'
 const Skills = () => {
     const skills = [
         {
-            name: 'Frontend with React (Next.js)',
+            name: 'Frontend with React',
             description: 'Unconscious Competence'
         },
         {
-            name: 'Backend with Node.js',
-            description: 'Unconscious Competence'
+            name: 'Backend with Django',
+            description: 'Conscious Competence'
         },
         {
-            name: 'Backend with Python',
-            description: 'Unconscious Competence'
-        },
-        {
-            name: 'Cloud with AWS',
-            description: 'Unconscious Competence'
-        },
-        {
-            name: 'System Development with C',
+            name: 'System Development with Rust',
             description: 'Conscious Competence'
         },
         {

@@ -3,20 +3,20 @@ import React from 'react'
 const Inprogress = () => {
     const inProgress = [
         {
-            name: 'Graphical DFA/NFA Simulator',
-            description: 'Web Application'
+            name: 'Kash App',
+            description: 'Android Application'
         },
         {
-            name: 'Noises of Nepal',
-            description: 'Web Application'
+            name: 'Khat',
+            description: 'Android Application'
         },
         {
-            name: 'Block Network Organization',
-            description: 'Case Study'
+            name: 'Kong',
+            description: 'Desktop Application'
         },
         {
-            name: 'Linear Steller Model',
-            description: 'Case Study'
+            name: 'Klappy Bird',
+            description: 'Mobile Game'
         },
     ]
     return (

@@ -3,19 +3,14 @@ import React from 'react'
 const Education = () => {
     const education = [
         {
-            degree: 'Bachelors',
-            institution: 'Tribhuvan University IOST, BSc. CSIT',
-            date: '2021 - Present'
-        },
-        {
             degree: 'Higher Secondary Education',
             institution: 'National Examination Board',
-            date: '2016 - 2018'
+            date: '2021 - 2023'
         },
         {
-            degree: 'School Leaving Certificate',
+            degree: 'Secondary Education Examination',
             institution: 'National Examination Board',
-            date: '2015'
+            date: '2020'
         }
     ]
     return (

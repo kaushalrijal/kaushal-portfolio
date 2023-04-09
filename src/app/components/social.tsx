@@ -4,23 +4,23 @@ const Social = () => {
     const social = [
         {
             name: 'Github',
-            link: 'https://github.com/bhaskarrijal'
+            link: 'https://github.com/kaushalrijal'
         },
         {
             name: 'Twitter',
-            link: 'https://twitter.com/bhaskarijal',
+            link: 'https://twitter.com/kaushalrijal',
         },
         {
             name: 'LinkedIn',
-            link: 'https://linkedin.com/in/bhaskarrijal',
+            link: 'https://linkedin.com/in/kaushalrijal',
         },
         {
             name: 'Instagram',
-            link: 'https://instagram.com/bhaskarrijal',
+            link: 'https://instagram.com/kaushalsym',
         },
         {
             name: 'Facebook',
-            link: 'https://facebook.com/bhaskarrijal',
+            link: 'https://facebook.com/kaushalsym',
         },
     ]
 
