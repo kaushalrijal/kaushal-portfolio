@@ -30,7 +30,7 @@ const Social = () => {
                 <h2 className="font-medium text-2xl">Social</h2>
                 <ul className="list-inside">
                     <li>
-                        <a href='https://bhaskarrijal.me/blog' target='_blank' className='text-primary underline italic'>
+                        <a href='https://blogsofkaushal.wordpress.com' target='_blank' className='text-primary underline italic'>
                             <span>Blog</span>
                         </a>
                     </li>
