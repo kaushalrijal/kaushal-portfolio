@@ -23,7 +23,7 @@ const Page = () => {
 					</p>
 					<p>Namaskar!</p>
 					<p className="text-justify">
-						My name is Kaushal Rijal and I'm the great! I'm all about the power of data science and machine learning, and I'm always on the lookout for new ways to push the boundaries of what's possible.
+						My name is Kaushal Rijal! I'm all about the power of data science and machine learning, and I'm always on the lookout for new ways to push the boundaries of what's possible.
 					</p>
 				</div>
 				<Image
@@ -68,9 +68,9 @@ const Page = () => {
 					</li>
 					<li>
 						<span>{'full website: '}</span>
-						<a href="https://kaushalrijal.com.np" target="_blank" className="italic underline text-primary">
-							kaushalrijal.com.np
-						</a>
+						<a href="https://kaushalrijal.netlify.app" target="_blank" className="italic underline text-primary">
+							kaushalrijal.netlify.app
+						</a>(someone please get me a domain🙃)
 					</li>
 				</ul>
 			</div>
