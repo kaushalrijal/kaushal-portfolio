@@ -68,9 +68,9 @@ const Page = () => {
 					</li>
 					<li>
 						<span>{'full website: '}</span>
-						<a href="https://kaushalrijal.netlify.app" target="_blank" className="italic underline text-primary">
-							kaushalrijal.netlify.app
-						</a>(someone please get me a domain🙃)
+						<a href="https://full.kaushalrijal.com.np" target="_blank" className="italic underline text-primary">
+							full.kaushalrijal.com.np
+						</a>(under development)
 					</li>
 				</ul>
 			</div>
