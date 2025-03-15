@@ -43,6 +43,9 @@ const Social = () => {
                             </li>
                         ))
                     }
+                    <li>
+                        <a rel="me" target='_blank' className='text-primary underline italic' href="https://qoto.org/@kaushalrijal"><span>Mastodon</span></a>
+                    </li>
                 </ul>
             </div>
         </>
